@@ -1,0 +1,2 @@
+Esse foi meu primerio projeto feito sem acompanhar video aula, tudo feito a base de anotaçoes e  pesquisa em sites, a ideia do projeto era criar um site de aluguel para jogos digitais e fisicos, nele foi utilizado HTML,CSS e java script.[
+Em breve quero adicionar mais elementos como adicionar carrinho de compras, mudar o layout da pagina principal, precificar produtos, criar um folder com aredes socias da marca. 
